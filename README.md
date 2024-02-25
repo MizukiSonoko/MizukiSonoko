@@ -10,6 +10,7 @@
 
 ## Names 
 - Legal Name: `IGARASHI Taisei / 五十嵐　太清`
+- birth of date: 1995/03/19
 - X: [@mizuki_sonoko](https://twitter.com/mizuki_sonoko)
 - discord: `mizukiso`
 
