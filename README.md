@@ -24,3 +24,16 @@
 ## Description
 - Introduction: https://gist.github.com/MizukiSonoko/c9bead4465ef1bed488c92b1344847bb
 - History: https://gist.github.com/MizukiSonoko/1547ff77797428f559fecfd8d9a4cbb9
+
+## GitHub
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MizukiSonoko&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizukiSonoko&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MizukiSonoko&theme=github" />
+  </a>
+</div>
