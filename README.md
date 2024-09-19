@@ -24,7 +24,3 @@
 ## Description
 - Introduction: https://gist.github.com/MizukiSonoko/c9bead4465ef1bed488c92b1344847bb
 - History: https://gist.github.com/MizukiSonoko/1547ff77797428f559fecfd8d9a4cbb9
-
-# ETH
-
-[https://link.zksync.io/***](https://link.zksync.io/?MHhEQjEwRTRhMDgzQjg3ZTgwMzU5NGMxMmM2Nzk0MjJkQ2U1RkNDQ0I5fEVUSHwwLjE)
