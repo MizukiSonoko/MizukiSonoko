@@ -27,6 +27,9 @@
 
 ## GitHub
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MizukiSonoko" />
+  </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MizukiSonoko&theme=github" />
   </a>
