@@ -26,6 +26,13 @@
 - History: https://gist.github.com/MizukiSonoko/1547ff77797428f559fecfd8d9a4cbb9
 
 ## GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MizukiSonoko/MizukiSonoko/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MizukiSonoko/MizukiSonoko/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MizukiSonoko/MizukiSonoko/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=MizukiSonoko" />
