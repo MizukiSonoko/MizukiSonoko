@@ -20,6 +20,12 @@
 その後Web・サーバ・モバイルなどの開発を行いサービスを提供しつつ、現RoyaltyBank, kataruなどで活動を行う。  
 技術を活用し、クリエイターが作品の価値を最大限に引き出せる社会を目指している。
   
+--
+
+While studying at the School of Computer Science and Engineering, University of Aizu, he won the Grand Prix at JP HACKS, a hackathon hosted by the University of Tokyo.
+After completing his master’s degree with a thesis on blockchain, he joined Soramitsu Co., Ltd., where he contributed to the Linux Foundation proposal for Hyperledger Iroha and worked with the National Bank of Cambodia (the country’s central bank) to design and develop a central bank digital currency (CBDC).
+He has since built and launched web, server, and mobile applications, and is currently active with RoyaltyBank and kataru, among others.
+He aims to create a society where technology enables creators to unlock the full value of their work.
 
 ## Description
 - Introduction: https://gist.github.com/MizukiSonoko/c9bead4465ef1bed488c92b1344847bb
